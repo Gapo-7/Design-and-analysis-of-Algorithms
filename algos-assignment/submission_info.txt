@@ -1,0 +1,12 @@
+GitHub link & team members
+
+Paste your repo URL here:
+https://github.com/USERNAME/REPO   <-- REPLACE with your actual link
+
+Team members (Full names):
+1) Full Name 1
+2) Full Name 2
+3) Full Name 3
+4) Full Name 4
+
+(At least one member should submit this .txt and the PDF report.)
